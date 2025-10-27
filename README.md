@@ -54,4 +54,3 @@
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!**  
-If you like my work, consider giving a ⭐ to one of my repositories!
