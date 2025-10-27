@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <Stefan Georgiev>!</h1>
+<h1 align="center">👋 Hi there, I'm Stefan Georgiev!</h1>
 <h3 align="center">💻 Software Developer | Web Enthusiast | Lifelong Learner</h3>
 
 ---
