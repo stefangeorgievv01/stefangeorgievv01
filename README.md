@@ -15,9 +15,9 @@
 ---
 
 ### 💼 Experience
-🏢 **Company / Organization:** <Efbet Gaming Hall>  
-💻 **Position:** <Financial Manager / Deputy Manager>  
-📆 **Duration:** <2019 – 2025>  
+🏢 **Company / Organization:** Efbet Gaming Hall  
+💻 **Position:** Financial Manager / Deputy Manager  
+📆 **Duration:** 2019 – 2025  
 🔍 **Main Responsibilities:**
 
 - Managed financial operations, budgeting, and reporting processes within the gaming hall.
@@ -42,7 +42,7 @@
 
 ### 🌐 Contact Me
 📫 **Email:** stefan.georgievv01@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+💼 **LinkedIn:** linkedin.com/in/stefan-georgiev-3039662b9  
 
 ---
 
