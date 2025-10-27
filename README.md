@@ -42,7 +42,7 @@
 
 ### 🌐 Contact Me
 📫 **Email:** stefan.georgievv01@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/your-link](linkedin.com/in/stefan-georgiev-3039662b9)   
+💼 **LinkedIn:** [linkedin.com/in/stefan-georgiev-3039662b9](linkedin.com/in/stefan-georgiev-3039662b9)   
 
 ---
 
