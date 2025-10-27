@@ -9,8 +9,8 @@
 ---
 
 ### 🎓 Education
-🎓 **University:** <University of Economics – Varna (Varna)>
-📘 **Degree / Major:** <Bachelor in Informatics and Computer Science (Professional field: Informatics and Computer Science)>  
+🎓 **University:** University of Economics – Varna (Varna)
+📘 **Degree / Major:** Bachelor in Informatics and Computer Science (Professional field: Informatics and Computer Science)  
 
 ---
 
@@ -50,21 +50,6 @@
 ⭐ [**Project 1**](https://github.com/yourusername/project1) — Short description of what it does and why it’s cool.  
 🚀 [**Project 2**](https://github.com/yourusername/project2) — Technologies used, purpose, or results.  
 💡 [**Project 3**](https://github.com/yourusername/project3) — Learning project or something you’re proud of.
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
