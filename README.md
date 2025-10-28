@@ -47,9 +47,9 @@
 ---
 
 ### 📂 Featured Projects
-⭐ - [**To-Do List App**]([https://github.com/yourusername/project1](https://github.com/stefangeorgievv01/laravel-todo) — A multi-user To-Do List application developed using Laravel and MySQL. Includes user authentication, CRUD operations, and task filtering features. 
-🚀 [**Project 2**](https://github.com/yourusername/project2) — Technologies used, purpose, or results.  
-💡 [**Project 3**](https://github.com/yourusername/project3) — Learning project or something you’re proud of.
+⭐ - [**To-Do List App**][https://github.com/yourusername/project1](https://github.com/stefangeorgievv01/laravel-todo) — A multi-user To-Do List application developed using Laravel and MySQL. Includes user authentication, CRUD operations, and task filtering features. 
+🚀 - [**Project 2**](https://github.com/yourusername/project2) — Technologies used, purpose, or results.  
+💡 - [**Project 3**](https://github.com/yourusername/project3) — Learning project or something you’re proud of.
 
 ---
 
