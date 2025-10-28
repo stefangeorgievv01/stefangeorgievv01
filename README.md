@@ -46,10 +46,18 @@
 
 ---
 
-### 📂 Featured Projects
-⭐ - [**To-Do List App**][https://github.com/yourusername/project1](https://github.com/stefangeorgievv01/laravel-todo) — A multi-user To-Do List application developed using Laravel and MySQL. Includes user authentication, CRUD operations, and task filtering features. 
-🚀 - [**Heart-Disease-Data-Analysis**][https://github.com/yourusername/project2](https://github.com/stefangeorgievv01/Heart-Disease-Data-Analysis) — Achieved accurate predictions based on multiple classifiers, demonstrating the impact of various health parameters.Technologies used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.  
-💡 - [**fastapi-movie-api**][(https://github.com/yourusername/project3)](https://github.com/stefangeorgievv01/fastapi-movie-api) — A small learning project built with **FastAPI**, demonstrating how to create a simple REST API for managing favorite movies.
+## 📂 Featured Projects
+
+- ⭐ [To-Do List App](https://github.com/yourusername/project1)  
+  A multi-user To-Do List application developed using **Laravel** and **MySQL**.  
+  Includes user authentication, CRUD operations, and task filtering features.
+
+- 🚀 [Heart Disease Data Analysis](https://github.com/yourusername/project2)  
+  Achieved accurate predictions based on multiple classifiers, demonstrating the impact of various health parameters.  
+  **Technologies used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
+
+- 💡 [FastAPI Movie API](https://github.com/yourusername/project3)  
+  A small learning project built with **FastAPI**, demonstrating how to create a simple REST API for managing favorite movies.
 
 ---
 
